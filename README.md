@@ -20,5 +20,5 @@ _Example:_
 
  _Challenge:_
  
-Write the function using only**one**for-loop.
+Write the function using only **one** for-loop.
 
