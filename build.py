@@ -1,2 +1,2 @@
 def solution(keys, values):
-    '''Enter Code Here'''
+    return dict((k,v) for k,v in zip(keys,values))
