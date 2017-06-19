@@ -1,2 +1,5 @@
 def solution(keys, values):
-    '''Enter Code Here'''
+    dictionary = {}
+    for i in range(len(keys)):
+        dictionary.update({keys[i]:values[i]})
+    return dictionary
