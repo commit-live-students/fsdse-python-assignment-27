@@ -1,2 +1,6 @@
 def solution(keys, values):
-    '''Enter Code Here'''
+    output = {}
+    for k, v in zip (keys, values):
+        output[k] = v
+
+    return output
