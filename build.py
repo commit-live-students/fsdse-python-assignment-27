@@ -1,2 +1,3 @@
 def solution(keys, values):
-    '''Enter Code Here'''
+    dic1 = dict(zip(keys, values))
+    return dic1
